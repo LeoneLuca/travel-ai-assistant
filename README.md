@@ -143,7 +143,7 @@ CREATE TABLE travel_user_memory (
 
 ## Esempi di Utilizzo
 
-[Esempi pratici](./examples/)
+[Esempi pratici](./esempi/)
 
 ### Esempio 1: Pianificazione Viaggio Completo
 
