@@ -155,14 +155,14 @@ CREATE TABLE travel_user_memory (
 
 ### Esempio 2: Ricerca Alloggi Specifica
 
-**Input Utente**: "Cerca hotel a Barcellona dal 10 al 15 giugno, 2 adulti, budget 100€/notte"
+**Input Utente**: "Cerca hotel a Barcellona dal 10 al 15 giugno 2026, 2 adulti, budget 100€/notte"
 
 **Parametri Tool**:
 ```python
 {
     "city": "Barcelona",
-    "checkIn": "2024-06-10",
-    "checkOut": "2024-06-15",
+    "checkIn": "2026-06-10",
+    "checkOut": "2026-06-15",
     "adults": 2,
     "minMaxPrice": "80-120"
 }
