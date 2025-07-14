@@ -143,6 +143,8 @@ CREATE TABLE travel_user_memory (
 
 ## Esempi di Utilizzo
 
+[Esempi pratici](./examples/)
+
 ### Esempio 1: Pianificazione Viaggio Completo
 
 **Input Utente**: "Voglio andare a Tokyo per 7 giorni a marzo, budget 2000€"
